@@ -28,5 +28,6 @@ Of course, you're not regular, are you? As such, when you make your character, y
 You can also subtract from your points and transfer the difference to another skill, up to 3 points total.
 
 > [!info]
-> Make sure you add a plus or minus in front of the number (see below).
+> Make sure you add a plus or minus in front of the number 
+> (see [[02 - Take Action/00 - Skill Checks\|Skill Checks]]).
 
