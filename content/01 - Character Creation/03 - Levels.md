@@ -10,4 +10,3 @@ Every character starts at level 1. Every time you level up, you can do these thi
 
 > [!info]
 > Nothing says you can't level up more than once at a time, either.
-
