@@ -28,6 +28,4 @@ Here's another, more trivial one:
 > 
 > *You have a +5 to any agility check that involve catching an object.*
 
-### *Using Traits*
-Reading a 
 
