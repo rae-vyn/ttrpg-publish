@@ -10,3 +10,6 @@ Every character starts at level 1. Every time you level up, you can do these thi
 
 > [!info]
 > Nothing says you can't level up more than once at a time, either.
+
+## *What about health?*
+Since your health doesn't actually increase with levels, as you level up it'll gradually be more difficult to gain injury levels.
