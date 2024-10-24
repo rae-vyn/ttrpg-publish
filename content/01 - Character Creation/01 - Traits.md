@@ -4,12 +4,7 @@ dg-publish: true
 ---
 Traits are, well, traits your character has. They can modify skill checks or other areas of the game.
 
-### *Types of Traits*
-There are two types of traits: Inherited and Developed.
-
-Inherited Traits are simpler and come from factors like species or upbringing. Developed Traits are pronounced over the course of your game.
-
-When creating a character, you get to pick one Inherited Trait.
+When creating a character, you get to write one trait.
 
 > [!info]
 >If none of the prebuilt traits are to your liking, feel free to come up with your own traits with your GM.
