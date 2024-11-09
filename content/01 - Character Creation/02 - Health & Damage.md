@@ -1,6 +1,5 @@
 ---
 tags: stub
-dg-publish: true
 ---
 Health in this system is pretty simple. 
 

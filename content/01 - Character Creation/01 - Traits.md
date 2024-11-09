@@ -1,6 +1,5 @@
 ---
 tags: in_progress
-dg-publish: true
 ---
 Traits are, well, traits your character has. They can modify skill checks or other areas of the game.
 

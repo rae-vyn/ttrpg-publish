@@ -1,6 +1,5 @@
 ---
 tags: stub
-dg-publish: true
 ---
 To play in this system, you'll need a few things:
 

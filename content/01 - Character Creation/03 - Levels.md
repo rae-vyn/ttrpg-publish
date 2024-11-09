@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+{}
 ---
 Every character starts at level 1. Every time you level up, you can do these things:
 1. You get two points to add to your skills.

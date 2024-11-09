@@ -1,6 +1,5 @@
 ---
 tags: in_progress
-dg-publish: true
 ---
 ---
 ### *What are they?*
@@ -8,7 +7,7 @@ The stats in the game are, by default:
 - Strength
 - Agility
 - Charisma
-- Insight
+- Perception
 - and three fillable skills.
 
 The three other skills are all setting/campaign specific. 
